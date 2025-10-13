@@ -7,4 +7,4 @@ Conteudos ligados a FAT
 ### 10-07
 
 - Terminologia : Noções e Exemplos
-- Ferramenta Naterm ()
+- Ferramenta Naterm ()  --> [https://natura.di.uminho.pt/jjbin/naterm]
