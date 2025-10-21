@@ -14,3 +14,7 @@ Conteudos ligados a FAT
 
 - Terminologia : Noções e Exemplos
 - Ferramenta Naterm ()  --> [https://natura.di.uminho.pt/jjbin/naterm]
+
+### A5 - 21-07
+
+- tp2
